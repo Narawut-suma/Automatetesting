@@ -1,0 +1,21 @@
+# Ignore everything except Robot Framework files
+
+# Ignore all files
+*
+
+# But not these patterns:
+!.gitignore
+!*.robot
+!*.resource
+!*.txt
+!*.md
+!testdata/
+!resources/
+
+# Optionally, ignore output and result folders
+output/
+Testresult/
+*.log
+*.xml
+*.db
+*.xlsx

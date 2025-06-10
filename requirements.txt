@@ -1,0 +1,5 @@
+robotframework
+robotframework-requests
+robotframework-collections
+robotframework-jsonlibrary
+robotframework-excel-application
